@@ -1,6 +1,6 @@
 {
   "name": "cv-email",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "The Official Email Validator Based on RFC 5322 Standard",
   "main": "index.js",
   "browser": "lib/index.js",
