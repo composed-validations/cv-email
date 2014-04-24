@@ -1,7 +1,7 @@
 {
-  "name": "cv-plugin-example",
+  "name": "cv-email",
   "version": "0.1.0",
-  "description": "A awesome example plugin",
+  "description": "The Official Email Validator Based on RFC 5322 Standard",
   "main": "index.js",
   "browser": "lib/index.js",
   "scripts": {
@@ -9,21 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:composed-validations/composed-validations-plugin-example.git"
+    "url": "git@github.com:composed-validations/cv-email.git"
   },
   "keywords": [
     "composed",
     "validations",
     "plugin",
-    "example",
+    "email",
     "validator"
   ],
   "author": "Djalma Araujo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/composed-validations/composed-validations-plugin-example/issues"
+    "url": "https://github.com/composed-validations/cv-email/issues"
   },
-  "homepage": "https://github.com/composed-validations/composed-validations-plugin-example",
+  "homepage": "https://github.com/composed-validations/cv-email",
   "devDependencies": {
     "barriertest": "~0.4.1",
     "composed-validations": "~0.4.0"

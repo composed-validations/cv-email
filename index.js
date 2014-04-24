@@ -1,1 +1,1 @@
-module.exports = require("./lib/validators/plugin_example.js");
+module.exports = require("./lib/validators/email.js");
